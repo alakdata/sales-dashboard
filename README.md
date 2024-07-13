@@ -41,6 +41,6 @@ Increased Sales: By identifying top-performing products and successful promotion
 
 
 
-The Shop Sales Dashboard is an essential tool for any retail business looking to enhance its sales strategy, improve customer satisfaction, and drive growth.
+# The Shop Sales Dashboard is an essential tool for any retail business looking to enhance its sales strategy, improve customer satisfaction, and drive growth.
 
 
