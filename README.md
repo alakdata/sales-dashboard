@@ -1,3 +1,3 @@
 # sales-dashboard
-# DESCRIPTION
-# Use Excel to analyze the sales based on various product categories.
+ DESCRIPTION
+ Use Excel to analyze the sales based on various product categories.
